@@ -18,7 +18,7 @@ Resultados principales: conclusiones rápidas o hallazgos (ej. “La mayoría de
 Instrucciones de uso: cómo abrir el dashboard, cómo correr los scripts, cómo explorar los mapas.
 Autores/Colaboradores: poner tu nombre y el de quien participó.
 
-📑 [Informe PDF](docs/informe.pdf)
+📑 [Informe PDF](Informe/Análisis del Acceso a las TICs.pdf)
 
 
 
