@@ -11,3 +11,6 @@ Metodología: breve explicación de qué análisis hiciste (ej. mapas, dashboard
 Resultados principales: conclusiones rápidas o hallazgos (ej. “La mayoría de colegios rurales no tienen acceso a internet estable”).
 Instrucciones de uso: cómo abrir el dashboard, cómo correr los scripts, cómo explorar los mapas.
 Autores/Colaboradores: poner tu nombre y el de quien participó.
+
+
+![Python](https://img.shields.io/badge/python-3.11-blue)
