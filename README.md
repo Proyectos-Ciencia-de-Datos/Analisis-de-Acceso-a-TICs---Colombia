@@ -6,8 +6,6 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-1E4D2B?logo=esri&logoColor=white)
 
-# Análisis del Acceso a las TICs en Colombia
-
 ## 📄 Descripción
 
 Este proyecto estudia cómo es el acceso a las Tecnologías de la Información y Comunicación (TICs) en Colombia dentro del ámbito educativo, identificando brechas digitales según zonas geográficas, tipo de institución y variables socioeconómicas. El análisis incluye mapas, visualizaciones y dashboards, así como recomendaciones basadas en los hallazgos del informe final.
